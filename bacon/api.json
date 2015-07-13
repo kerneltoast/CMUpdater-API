@@ -81,6 +81,16 @@
     "changes": "",
     "incremental": ""
     },
+    {
+    "url": "https://basketbuild.com/uploads/devs/Sultanxda/Bacon/CM12.1_CAF/cm-12.1-20150712-UNOFFICIAL-Sultan-bacon.zip",
+    "timestamp": "1436738093",
+    "api_level": "22",
+    "md5sum": "cb31718031dbffda08d113f09aa436ab",
+    "filename": "cm-12.1-20150712-UNOFFICIAL-Sultan-bacon.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
   ],
  "error": null
 }
