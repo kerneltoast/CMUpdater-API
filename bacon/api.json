@@ -121,6 +121,16 @@
     "changes": "",
     "incremental": ""
     },
+    {
+    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=13551&task=get",
+    "timestamp": "1437097406",
+    "api_level": "22",
+    "md5sum": "6a76d54cd35fd09d6b56905dd5992d67",
+    "filename": "cm-12.1-20150717-UNOFFICIAL-Sultan-bacon.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
   ],
  "error": null
 }
