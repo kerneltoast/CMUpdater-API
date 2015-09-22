@@ -51,6 +51,16 @@
     "changes": "",
     "incremental": ""
     },
+    {
+    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=14491&task=get",
+    "timestamp": "1442873832",
+    "api_level": "22",
+    "md5sum": "efe0b992e3217f487e922055c589e153",
+    "filename": "cm-12.1-YOG4P-20150922-STABLE-Sultan-bacon.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
   ],
  "error": null
 }
