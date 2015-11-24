@@ -2,81 +2,11 @@
  "id": null,
  "result": [
     {
-    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=15053&task=get",
-    "timestamp": "1446836224",
+    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=15331&task=get",
+    "timestamp": "1448345318",
     "api_level": "23",
-    "md5sum": "992325fe48e5c9c1705a6ca4223b78d6",
-    "filename": "cm-13.0-20151106-UNOFFICIAL-Sultan-bacon.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    },
-    {
-    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=15167&task=get",
-    "timestamp": "1447296841",
-    "api_level": "23",
-    "md5sum": "ed0e33750b9e13661484e932b83c5672",
-    "filename": "cm-13.0-20151112-UNOFFICIAL-Sultan-bacon.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    },
-    {
-    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=15179&task=get",
-    "timestamp": "1447387270",
-    "api_level": "23",
-    "md5sum": "ae4e97767866984245bbe053f777e44f",
-    "filename": "cm-13.0-20151113-UNOFFICIAL-Sultan-bacon.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    },
-    {
-    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=15214&task=get",
-    "timestamp": "1447527334",
-    "api_level": "23",
-    "md5sum": "797bd688d204418d92f36cc9664f076a",
-    "filename": "cm-13.0-20151114-UNOFFICIAL-Sultan-bacon.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    },
-    {
-    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=15226&task=get",
-    "timestamp": "1447569418",
-    "api_level": "23",
-    "md5sum": "57358c86a472fb30877fabaad91af001",
-    "filename": "cm-13.0-20151115-UNOFFICIAL-Sultan-bacon.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    },
-    {
-    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=15240&task=get",
-    "timestamp": "1447642026",
-    "api_level": "23",
-    "md5sum": "1b425cb17b77709682f9b9bdc9325a35",
-    "filename": "cm-13.0-20151116-UNOFFICIAL-Sultan-bacon.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    },
-    {
-    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=15268&task=get",
-    "timestamp": "1447817335",
-    "api_level": "23",
-    "md5sum": "8612eef33c6fc530784233916427e81a",
-    "filename": "cm-13.0-20151118-UNOFFICIAL-Sultan-bacon.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    },
-    {
-    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=15294&task=get",
-    "timestamp": "1448072142",
-    "api_level": "23",
-    "md5sum": "969ba283aaf8c214f0f375feba52ddaa",
-    "filename": "cm-13.0-20151121-UNOFFICIAL-Sultan-bacon.zip",
+    "md5sum": "d162e88895a0524b4b1fa49e7886f06b",
+    "filename": "cm-13.0-20151124-UNOFFICIAL-Sultan-bacon.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
