@@ -1,0 +1,1 @@
+If you encounter an error when trying to install this update ("oppo.verify_trustzone" error), then you need to install the HydrogenOS firmware package before you can try again. Read the "Installation instructions (for updating to a newer release)" section in the first post of the thread on XDA for instructions on how to do this.
