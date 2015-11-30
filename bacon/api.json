@@ -41,16 +41,6 @@
     "changes": "",
     "incremental": ""
     },
-    {
-    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=15422&task=get",
-    "timestamp": "1448857310",
-    "api_level": "23",
-    "md5sum": "3467f40740f14b25c37d5f74db8a178a",
-    "filename": "cm-13.0-20151130-UNOFFICIAL-Sultan-bacon.zip",
-    "channel": "NIGHTLY",
-    "changes": "https://raw.githubusercontent.com/sultanxda/CMUpdater-API/cm-13.0-new/bacon/2015-11-30/notes.txt",
-    "incremental": ""
-    },
   ],
  "error": null
 }
