@@ -11,56 +11,6 @@
     "changes": "",
     "incremental": ""
     },
-    {
-    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=17702&task=get",
-    "timestamp": "1459651831",
-    "api_level": "23",
-    "md5sum": "5ab24b0e95cdfa66c8769db147fbd301",
-    "filename": "cm-13.0-ZNH2K-20160403-STABLE-Sultan-bacon.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    },
-    {
-    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=17580&task=get",
-    "timestamp": "1459034869",
-    "api_level": "23",
-    "md5sum": "f5491214b2a8768980824a62dac92137",
-    "filename": "cm-13.0-ZNH0E-20160326-STABLE-Sultan-bacon.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    },
-    {
-    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=17530&task=get",
-    "timestamp": "1458805919",
-    "api_level": "23",
-    "md5sum": "ca9c17e4a10f8981a4c02b6928a8818c",
-    "filename": "cm-13.0-ZNH0E-20160324-STABLE-Sultan-bacon.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    },
-    {
-    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=17504&task=get",
-    "timestamp": "1458614866",
-    "api_level": "23",
-    "md5sum": "9297fed722afda11e9df0d1cac641e12",
-    "filename": "cm-13.0-ZNH0E-20160322-STABLE-Sultan-bacon.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    },
-    {
-    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=17484&task=get",
-    "timestamp": "1458543195",
-    "api_level": "23",
-    "md5sum": "9ed749aa949e5a1a1002f9a1f3bc6682",
-    "filename": "cm-13.0-ZNH0E-20160321-STABLE-Sultan-bacon.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    },
   ],
  "error": null
 }
