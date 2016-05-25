@@ -2,11 +2,11 @@
  "id": null,
  "result": [
     {
-    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=18485&task=get",
-    "timestamp": "1463636934",
+    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=18603&task=get",
+    "timestamp": "1464201075",
     "api_level": "23",
-    "md5sum": "8fd38051ee58a5f57251b974cc713881",
-    "filename": "cm-13.0-ZNH2K-20160519-STABLE-Sultan-onyx.zip",
+    "md5sum": "202c40b04ecbb0040a5b8f1d300b38b0",
+    "filename": "cm-13.0-ZNH2K-20160525-STABLE-Sultan-onyx.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
