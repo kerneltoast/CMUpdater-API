@@ -2,11 +2,11 @@
  "id": null,
  "result": [
     {
-    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=18978&task=get",
-    "timestamp": "1466749985",
+    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=19350&task=get",
+    "timestamp": "1468725587",
     "api_level": "23",
-    "md5sum": "cf8e71ad2125178d20dc0a282250270d",
-    "filename": "cm-13.0-ZNH2K-20160624-STABLE-Sultan-bacon.zip",
+    "md5sum": "9d68a8c8061fd4d68e4595dd6d4a9e23",
+    "filename": "cm-13.0-ZNH2K-20160717-STABLE-Sultan-bacon.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
