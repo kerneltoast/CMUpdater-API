@@ -2,11 +2,11 @@
  "id": null,
  "result": [
     {
-    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=21772&task=get",
-    "timestamp": "1480118885",
+    "url": "http://forum.xda-developers.com/devdb/project/dl/?id=21974&task=get",
+    "timestamp": "1481267861",
     "api_level": "23",
-    "md5sum": "8b4ecb68f1829679acf779c941321804",
-    "filename": "cm-13.0-ZNH5Y-20161126-STABLE-Sultan-oneplus3.zip",
+    "md5sum": "4fe67725a5cd320c597dfbd9ce1d3e9b",
+    "filename": "cm-13.0-ZNH5Y-20161209-STABLE-Sultan-oneplus3.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
