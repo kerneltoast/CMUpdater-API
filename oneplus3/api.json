@@ -1,16 +1,11 @@
 {
- "id": null,
- "result": [
+  "response": [
     {
-    "url": "https://forum.xda-developers.com/devdb/project/dl/?id=24193&task=get",
-    "timestamp": "1492037250",
-    "api_level": "23",
-    "md5sum": "5034c6e15cdb28b4a14d7fd97a912be0",
-    "filename": "lineage-14.1-20170412-UNOFFICIAL-Sultan-oneplus3.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    },
-  ],
- "error": null
+      "filename": "lineage-14.1-20170413-UNOFFICIAL-Sultan-oneplus3.zip",
+      "url": "https://forum.xda-developers.com/devdb/project/dl/?id=24217&task=get",
+      "md5sum": "979e818d36f4be0cee91ae851738872d",
+      "datetime": 1492125197,
+      "romtype": "unofficial"
+    }
+  ]
 }
