@@ -1,10 +1,10 @@
 {
   "response": [
     {
-      "filename": "lineage-14.1-20170903-UNOFFICIAL-Sultan-oneplus3.zip",
-      "url": "https://forum.xda-developers.com/devdb/project/dl/?id=26503&task=get",
-      "md5sum": "45d344a76f178056ce6b905206910ada",
-      "datetime": 1504410117,
+      "filename": "lineage-14.1-20170911-UNOFFICIAL-Sultan-oneplus3.zip",
+      "url": "https://forum.xda-developers.com/devdb/project/dl/?id=26617&task=get",
+      "md5sum": "d415b6e12a47b1e1e02a5e10e9556f1d",
+      "datetime": 1505170081,
       "romtype": "unofficial",
       "version": "14.1"
     }
