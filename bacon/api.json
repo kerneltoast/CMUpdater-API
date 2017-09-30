@@ -1,10 +1,10 @@
 {
   "response": [
     {
-      "filename": "lineage-14.1-20170831-UNOFFICIAL-Sultan-bacon.zip",
-      "url": "https://forum.xda-developers.com/devdb/project/dl/?id=26391&task=get",
-      "md5sum": "e03982ec0c29bfb95c7945b5681a746a",
-      "datetime": 1504154921,
+      "filename": "lineage-14.1-20170930-UNOFFICIAL-Sultan-bacon.zip",
+      "url": "https://forum.xda-developers.com/devdb/project/dl/?id=26830&task=get",
+      "md5sum": "204a005a6622321cf093a225ed9c9d15",
+      "datetime": 1506809259,
       "romtype": "unofficial",
       "version": "14.1"
     }
