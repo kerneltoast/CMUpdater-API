@@ -2,7 +2,7 @@
   "response": [
     {
       "filename": "lineage-14.1-20180127-UNOFFICIAL-Sultan-oneplus3.zip",
-      "url": "https://forum.xda-developers.com/devdb/project/dl/?id=28333&task=get",
+      "url": "https://github.com/sultanxda/android_releases/releases/download/release/lineage-14.1-20180127-UNOFFICIAL-Sultan-oneplus3.zip",
       "md5sum": "00506ed95fa24929adccaab97e51841e",
       "datetime": 1517096670,
       "romtype": "unofficial",
