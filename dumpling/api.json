@@ -2,7 +2,7 @@
   "response": [
     {
       "filename": "lineage-14.1-20180219-UNOFFICIAL-Sultan-dumpling.zip",
-      "url": "https://forum.xda-developers.com/devdb/project/dl/?id=28713&task=get",
+      "url": "https://github.com/sultanxda/android_releases/releases/download/release/lineage-14.1-20180219-UNOFFICIAL-Sultan-dumpling.zip",
       "md5sum": "653136c29508099d979db16a87763789",
       "datetime": 1519015214,
       "romtype": "unofficial",
