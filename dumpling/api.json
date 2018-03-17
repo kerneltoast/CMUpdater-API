@@ -1,10 +1,10 @@
 {
   "response": [
     {
-      "filename": "lineage-14.1-20180311-UNOFFICIAL-Sultan-dumpling.zip",
-      "url": "https://github.com/sultanxda/android_releases/releases/download/release/lineage-14.1-20180311-UNOFFICIAL-Sultan-dumpling.zip",
-      "md5sum": "64de7f74184dd300baf47f494a36bd49",
-      "datetime": 1520753466,
+      "filename": "lineage-14.1-20180317-UNOFFICIAL-Sultan-dumpling.zip",
+      "url": "https://github.com/sultanxda/android_releases/releases/download/release/lineage-14.1-20180317-UNOFFICIAL-Sultan-dumpling.zip",
+      "md5sum": "732703736b40b16450abfd5e212a2515",
+      "datetime": 1521321216,
       "romtype": "unofficial",
       "version": "14.1"
     }
