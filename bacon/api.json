@@ -1,10 +1,10 @@
 {
   "response": [
     {
-      "filename": "lineage-14.1-20180311-UNOFFICIAL-Sultan-bacon.zip",
-      "url": "https://github.com/sultanxda/android_releases/releases/download/release/lineage-14.1-20180311-UNOFFICIAL-Sultan-bacon.zip",
-      "md5sum": "debdd33dd4bb8eb25becea14ec6ba202",
-      "datetime": 1520804631,
+      "filename": "lineage-14.1-20180514-UNOFFICIAL-Sultan-bacon.zip",
+      "url": "https://github.com/sultanxda/android_releases/releases/download/release/lineage-14.1-20180514-UNOFFICIAL-Sultan-bacon.zip",
+      "md5sum": "f798ef5e9d7ab42a9db5157d013e163b",
+      "datetime": 1526263132,
       "romtype": "unofficial",
       "version": "14.1"
     }
